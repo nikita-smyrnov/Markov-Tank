@@ -14,10 +14,10 @@ This analysis does have some flaws:
 * The analysis assumes that each team has the same resources to attract free agents and re-sign drft picks. This just isn't the case in reality - whether it's location, city life (or lack thereof), or simply the culture of the team, players are often drawn to and repelled from certain organizations more than others. As a result, certain GMs may be inheriting an organization that either will boost their chances of improving their overall roster or could reduce their chances, depending on what the situation surrounding that organization is.
 
 ## Analysis #1: 4 states
-TO-DO
+![4 States](4states.png)
 
 ## Analysis #2: 5 states
-TO-DO
+![5 States](5states.png)
 
 ## Analysis #3: 7 states
-TO-DO
+![7 States](7states.png)
