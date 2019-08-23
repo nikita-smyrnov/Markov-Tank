@@ -1,4 +1,4 @@
-# Markov-Tank
+# Tanking in the NFL: An Analysis Using Markov Chains
 This analysis looks at whether tanking in the NFL could possibly be successful over an average GM's tenure over simply remaining in a mediocre state.
 
 ## Preface
