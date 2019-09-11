@@ -15,9 +15,26 @@ This analysis does have some flaws:
 
 ## Analysis #1: 4 states
 ![4 States](4states.png)
+* State 1 = 1-5
+* State 2 = 6-10
+* State 3 = 11-30
+* State 4 = 31-32
 
 ## Analysis #2: 5 states
 ![5 States](5states.png)
+* State 1 = 1-5
+* State 2 = 6-10
+* State 3 = 11-20
+* State 4 = 21-30
+* State 5 = 31-32
 
 ## Analysis #3: 7 states
 ![7 States](7states.png)
+* State 1 = 1-5
+* State 2 = 6-10
+* State 3 = 11-15
+* State 4 = 16-20
+* State 5 = 21-28
+* State 6 = 29-30
+* State 7 = 31-32
+
